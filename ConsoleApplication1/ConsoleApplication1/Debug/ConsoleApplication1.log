@@ -1,0 +1,25 @@
+﻿  ConsoleApplication1.c
+D:\학교\3-1\컴퓨터 프로그래밍\project\visualStudio\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(58,21): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\학교\3-1\컴퓨터 프로그래밍\project\visualStudio\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(129,41): warning C4020: 'CheckoutBook': 실제 매개 변수가 너무 많습니다.
+D:\학교\3-1\컴퓨터 프로그래밍\project\visualStudio\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(49,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\학교\3-1\컴퓨터 프로그래밍\project\visualStudio\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(84,17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\학교\3-1\컴퓨터 프로그래밍\project\visualStudio\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.c(88,17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  checkout.c
+D:\학교\3-1\컴퓨터 프로그래밍\project\visualStudio\ConsoleApplication1\ConsoleApplication1\checkout.c(10,1): warning C4029: 선언된 정식 매개 변수 목록이 정의와 다릅니다.
+D:\학교\3-1\컴퓨터 프로그래밍\project\visualStudio\ConsoleApplication1\ConsoleApplication1\checkout.c(41,17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\학교\3-1\컴퓨터 프로그래밍\project\visualStudio\ConsoleApplication1\ConsoleApplication1\checkout.c(42,17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\학교\3-1\컴퓨터 프로그래밍\project\visualStudio\ConsoleApplication1\ConsoleApplication1\checkout.c(47,17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\학교\3-1\컴퓨터 프로그래밍\project\visualStudio\ConsoleApplication1\ConsoleApplication1\checkout.c(48,17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\학교\3-1\컴퓨터 프로그래밍\project\visualStudio\ConsoleApplication1\ConsoleApplication1\checkout.c(49,17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\학교\3-1\컴퓨터 프로그래밍\project\visualStudio\ConsoleApplication1\ConsoleApplication1\checkout.c(73,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\학교\3-1\컴퓨터 프로그래밍\project\visualStudio\ConsoleApplication1\ConsoleApplication1\checkout.c(74,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\학교\3-1\컴퓨터 프로그래밍\project\visualStudio\ConsoleApplication1\ConsoleApplication1\checkout.c(102,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\학교\3-1\컴퓨터 프로그래밍\project\visualStudio\ConsoleApplication1\ConsoleApplication1\checkout.c(103,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\학교\3-1\컴퓨터 프로그래밍\project\visualStudio\ConsoleApplication1\ConsoleApplication1\checkout.c(104,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\학교\3-1\컴퓨터 프로그래밍\project\visualStudio\ConsoleApplication1\ConsoleApplication1\checkout.c(12,12): warning C4101: 'student_bookDB' :참조되지 않은 지역 변수입니다.
+D:\학교\3-1\컴퓨터 프로그래밍\project\visualStudio\ConsoleApplication1\ConsoleApplication1\checkout.c(11,18): warning C4101: 'checkouted_student' :참조되지 않은 지역 변수입니다.
+D:\학교\3-1\컴퓨터 프로그래밍\project\visualStudio\ConsoleApplication1\ConsoleApplication1\checkout.c(216,37): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+D:\학교\3-1\컴퓨터 프로그래밍\project\visualStudio\ConsoleApplication1\ConsoleApplication1\checkout.c(229,17): warning C4098: 'DisplayCheckoutList': 'void' 함수에서 값을 반환하고 있습니다.
+  코드를 생성하고 있습니다...
+D:\학교\3-1\컴퓨터 프로그래밍\project\visualStudio\ConsoleApplication1\ConsoleApplication1\checkout.c(112): warning C4715: 'CheckoutBook': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  ConsoleApplication1.vcxproj -> D:\학교\3-1\컴퓨터 프로그래밍\project\visualStudio\ConsoleApplication1\Debug\ConsoleApplication1.exe
